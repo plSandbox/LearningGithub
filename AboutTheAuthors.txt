@@ -1,0 +1,4 @@
+This file is about authors of this porject :
+
+My name is Pascal. I use Mercurial at wrok and I would like to learn Git and GitHub.
+I am a computer engineer sine 19 yeras now. I worked in several fiels like Defence, telecommunication and medical field.
